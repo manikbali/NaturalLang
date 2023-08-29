@@ -1,0 +1,9 @@
+This file reads a image file that has text and extracts the text an processes is. It then does Sentiment Analysis
+ OCR & Text Extraction
+Given any set of scanned documents:
+- Use an OCR library to extract the text from the documents. 
+- Clean and preprocess the extracted text data for further analysis.
+
+ Text Analysis using NLP 
+- Identify named entities in the text extracted above using OCR. 
+- Classify sentences based on sentiment (positive, negative, neutral).
